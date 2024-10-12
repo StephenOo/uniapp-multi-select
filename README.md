@@ -50,6 +50,13 @@ options: [
 ]
 ```
 
+#### 效果展示
+
+<img width="184" alt="多选下拉" src="https://github.com/user-attachments/assets/cf30d044-3741-4243-ab9f-83c88f12915f">
+
+<img width="184" alt="多选下拉-搜索" src="https://github.com/user-attachments/assets/e9a09c7f-da8a-4d70-83a7-97cd91cc92ff">
+
+
 
 
 
